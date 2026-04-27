@@ -1,5 +1,6 @@
 import numpy as np
 
+# Also works
 # def tanh(x):
 #     if( isinstance(x, (int, float))):
 #         return (np.exp(x) - np.exp(-x))/ (np.exp(x) + np.exp(-x))
